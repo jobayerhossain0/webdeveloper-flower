@@ -1,4 +1,4 @@
-/* desctop */
+/* deskgitop */
 @media (max-width: 1280px) {
   .hot_right {
     text-align: right;
@@ -57,19 +57,19 @@
   }
 }
 @media (max-width: 440px) {
- .hot_deal{
+  .hot_deal {
     flex-direction: column;
     gap: 40px;
- }
- .instagram_img {
+  }
+  .instagram_img {
     grid-template-columns: repeat(1, 1fr);
     gap: 60px;
     text-align: center;
   }
-  .img_group{
-    flex-wrap:wrap ;
+  .img_group {
+    flex-wrap: wrap;
   }
-  footer{
+  footer {
     text-align: center;
   }
 }
